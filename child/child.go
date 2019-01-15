@@ -1,3 +1,3 @@
 package child
 
-var Thing = "new version"
+var Thing = "next"
